@@ -1,0 +1,9 @@
+.calendarMain {
+    width: 75%;
+    height: 500px;
+    background-color: rgb(217, 217, 217);
+    border-radius: 7px;
+    margin-top: 3%;
+    position: relative;
+    left: 170px;
+}
